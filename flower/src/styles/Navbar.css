@@ -1,0 +1,30 @@
+.navbar {
+  width: 100%;
+  height: 10vh;
+}
+img {
+  height: 14vh;
+  width: 80px;
+  margin-left: 40px;
+  margin-right: 940px;
+}
+
+.main {
+  height: 120px;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  background-color: seashell;
+}
+.mainLink a {
+  margin-left: -65px;
+  margin-right: 50px;
+  padding-left: 80px;
+  text-decoration: none;
+  color: black;
+}
+.mainLink a:hover {
+  cursor: pointer;
+  color: rgb(255, 0, 0);
+  /* transition: 0.5s ease-in; */
+}
